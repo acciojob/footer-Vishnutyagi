@@ -11,6 +11,8 @@ body{
 	font-size:30px;
 }
 .media-icons{
+	display:flex;
+	/* justify-content:center; */
 	position:absolute;
 	right:4%;
 }
